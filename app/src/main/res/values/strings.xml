@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ауа_Райы</string>
+    <string name="logo">Қалаңыздағы ауа райы</string>
+    <string name="hint_user_field">Қалаңызды жазыңыз</string>
+    <string name="main_btn">Ауа райын көру</string>
+    <string name="no_user_input">Ештене жазылмаған</string>
+    <string name="no_user_input2">Бірінші бетте ештене жазылмаған</string>
+    <string name="logo2">Dauletkeldi</string>
+    <string name="btn1">Бағдарлама жайлы толығырақ білу</string>
+
+
+</resources>
